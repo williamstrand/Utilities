@@ -2,7 +2,7 @@
 
 namespace Utilities.Timer
 {
-    public class Timer
+    public sealed class Timer
     {
         public Action OnComplete { get; private set; }
 
