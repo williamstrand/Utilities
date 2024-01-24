@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.wsp.utilities",
+  "version": "1.0.0",
+  "displayName": "WSP Utilities",
+  "description": "Utilities",
+  "unity": "2022.3",
+  "author": 
+  {
+    "name": "WSP",
+    "email": "william.strandpaurell@gmail.com",
+    "url": ""
+  }
+}
